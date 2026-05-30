@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-openai
+langgraph
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+requests
+streamlit
+openai
