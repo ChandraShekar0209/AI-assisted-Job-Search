@@ -89,6 +89,7 @@ Open your browser at http://localhost:8501
 
 ## 📁 Project structure
 
+```
 AI-assisted-Job-Search/
 ├── src/
 │   ├── __init__.py
@@ -101,6 +102,7 @@ AI-assisted-Job-Search/
 ├── .env.example            — API key template
 ├── .gitignore
 └── README.md
+```
 
 ---
 
