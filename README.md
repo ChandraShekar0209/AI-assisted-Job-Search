@@ -177,7 +177,9 @@ LangSmith → traces every LLM call automatically
 ## 👤 Built by
 
 Chandrashekar Garigapati
+
 MS Data Science — SUNY Albany
+
 BS Computer Science — SRM University
 
 GitHub: https://github.com/ChandraShekar0209
