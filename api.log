@@ -1,0 +1,11 @@
+2026-06-05 08:57:28,416 — main — INFO — Health check called
+2026-06-05 08:58:35,808 — main — INFO — Search request — role: business analyst , location: United states, k: 3
+2026-06-05 08:58:35,811 — main — INFO — Resume saved to temp file: /var/folders/49/43szrkfs2gvgw19tpwsmfp040000gn/T/tmpwcrl7s7y.pdf
+2026-06-05 08:58:42,879 — httpx — INFO — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 08:58:52,707 — httpx — INFO — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 08:58:54,653 — httpx — INFO — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 08:58:56,393 — httpx — INFO — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 08:58:58,133 — httpx — INFO — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 08:59:00,128 — httpx — INFO — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 08:59:01,719 — httpx — INFO — HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-05 08:59:01,726 — main — INFO — Agent completed — 3 results returned
